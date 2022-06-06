@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/purple_mainscreen"
+    tools:context=".After_Login">
+
+    <TextView
+        android:id="@+id/textwelcome"
+        android:layout_width="160dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="57dp"
+        android:text="WELCOME "
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        app:layout_constraintEnd_toStartOf="@+id/afterlogin_username"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/afterlogin_username"
+        android:layout_width="160dp"
+        android:layout_height="49dp"
+        android:layout_marginTop="57dp"
+        android:text="TextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        app:layout_constraintStart_toEndOf="@+id/textwelcome"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/texttoshopie"
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="125dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginEnd="126dp"
+        android:text="TO SHOPIE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        app:layout_constraintTop_toBottomOf="@+id/textwelcome" />
+</androidx.constraintlayout.widget.ConstraintLayout>
