@@ -42,9 +42,5 @@ class MainActivity : AppCompatActivity() {
         helptext.setOnClickListener {
             Snackbar.make(it,"Please wait for help", Snackbar.LENGTH_SHORT).show()
         }
-
-
-
-
     }
 }
