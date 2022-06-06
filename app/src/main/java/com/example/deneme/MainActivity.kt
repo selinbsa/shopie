@@ -32,7 +32,6 @@ class MainActivity : AppCompatActivity() {
 
 
         }
-
         textsignup.setOnClickListener {
 
             val newIntent = Intent(this@MainActivity,Signup_page::class.java)
