@@ -12,6 +12,12 @@
         <entry key="..\:/Users/asus/AndroidStudioProjects/Deneme/app/src/main/res/layout/activity_after_login.xml" value="0.16259057971014493" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/Deneme/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/Deneme/app/src/main/res/layout/activity_signup_page.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Deneme/app/src/main/res/layout/fragment_afterlogin.xml" value="0.1082427536231884" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Deneme/app/src/main/res/layout/fragment_fav.xml" value="0.1082427536231884" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Deneme/app/src/main/res/layout/fragment_men.xml" value="0.1082427536231884" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Deneme/app/src/main/res/layout/fragment_women.xml" value="0.1082427536231884" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Deneme/app/src/main/res/menu/bottom_bar_menu.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Deneme/app/src/main/res/menu/drawer_menu.xml" value="0.18645833333333334" />
       </map>
     </option>
   </component>
